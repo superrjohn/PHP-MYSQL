@@ -1,0 +1,52 @@
+body {
+  background-color: #fafafaaf;
+}
+
+.goods img{
+  width: 25vh;
+  height: 25vh;
+}
+
+.goods {
+  text-align: center;
+}
+
+#login {
+  text-align: center;
+}
+
+#login input {
+  margin-bottom: 10px;
+}
+
+nav {
+  margin-bottom: 10px;
+}
+
+.Allorder {
+  border: black dotted;
+  margin: 40px 10px; 
+  padding: 1vh;
+}
+
+footer {
+  text-align: center;
+  margin: 36px 0;
+}
+
+.register{
+  width: 70vh ;
+  margin: 0 auto;
+}
+
+h1 ,h2 {
+  text-align: center;
+}
+
+.order {
+  text-align: center;
+}
+
+.order input {
+  margin-bottom: 10px;
+}
